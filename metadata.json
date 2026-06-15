@@ -1,0 +1,6 @@
+{
+  "name": "Quarantine Pest Detector",
+  "description": "An offline Android app that detects 39 quarantine pests in Iran using a local TensorFlow Lite model, displays details, treatment options, and tracks search history.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
